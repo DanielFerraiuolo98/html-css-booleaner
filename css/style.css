@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image: url(../img/pattern.png);
+    background-color: rgb(78, 160, 255); 
+    height: 150px;
+}
+
+.logo{
+    width: 200px;
+    margin-top: 75px;
+}
+
+.author{
+    color: rgb(53, 177, 231);
+}
+
+h4{
+    color: rgb(140, 140, 140);
+}
+
+h5{
+    color: rgb(166, 166, 166);
+}
